@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FB0F50242A2E629E000992BA /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB0F50232A2E629E000992BA /* Calculator.swift */; };
 		FBCDE0E92A253C0D00DB4200 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBCDE0E82A253C0D00DB4200 /* AppDelegate.swift */; };
 		FBCDE0EB2A253C0D00DB4200 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBCDE0EA2A253C0D00DB4200 /* SceneDelegate.swift */; };
 		FBCDE0ED2A253C0D00DB4200 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBCDE0EC2A253C0D00DB4200 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FB0F50232A2E629E000992BA /* Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
 		FBCDE0E52A253C0D00DB4200 /* calculatorApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = calculatorApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBCDE0E82A253C0D00DB4200 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FBCDE0EA2A253C0D00DB4200 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				FBCDE0F12A253C0E00DB4200 /* Assets.xcassets */,
 				FBCDE0F32A253C0E00DB4200 /* LaunchScreen.storyboard */,
 				FBCDE0F62A253C0E00DB4200 /* Info.plist */,
+				FB0F50232A2E629E000992BA /* Calculator.swift */,
 			);
 			path = calculatorApp;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FBCDE0ED2A253C0D00DB4200 /* ViewController.swift in Sources */,
+				FB0F50242A2E629E000992BA /* Calculator.swift in Sources */,
 				FBCDE0E92A253C0D00DB4200 /* AppDelegate.swift in Sources */,
 				FBCDE0EB2A253C0D00DB4200 /* SceneDelegate.swift in Sources */,
 			);
